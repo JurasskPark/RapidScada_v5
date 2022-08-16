@@ -1,6 +1,6 @@
 	Драйвера для Rapid SCADA.
 	Drivers  for Rapid SCADA.
-Библиотека KpDbImport была доработана и добавлен новый функционал:
+Библиотека KpDbImportPlus была доработана и добавлен новый функционал:
 - В конфигурационном файле теперь шифриуется не только пароль, но и строка подключения.
 - Добавлен сбор данных через драйвера ODBC.
 - Добавлен сбор данных из СУБД Firebird.
@@ -9,7 +9,7 @@
 - Подсветка синтаксиса SQL.
 - Реализован новый режим сбора данных, когда в первом столбце - название тега, во втором - значение тега, в третьем - время значения. (Работает историческая запись данных через срез.)
 
-The KpDbImport library has been improved and new functionality has been added:
+The KpDbImportPlus library has been improved and new functionality has been added:
 - The configuration file now encrypts not only the password, but also the connection string.
 - Added data collection via ODBC drivers.
 - Added data collection from the Firebird DBMS.
