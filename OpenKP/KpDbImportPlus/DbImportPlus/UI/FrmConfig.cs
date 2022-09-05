@@ -482,6 +482,11 @@ namespace Scada.Comm.Devices.DbImportPlus.UI
             Modified = true;
         }
 
+        private void numTagCount_ValueChanged(object sender, EventArgs e)
+        {
+            Modified = true;
+        }
+
         private void cbCommand_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (!cmdSelecting)
@@ -764,8 +769,6 @@ namespace Scada.Comm.Devices.DbImportPlus.UI
                 }
             }
         }
-
-
 
 
     }

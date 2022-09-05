@@ -630,6 +630,7 @@
             this.numTagCount.Name = "numTagCount";
             this.numTagCount.Size = new System.Drawing.Size(100, 20);
             this.numTagCount.TabIndex = 8;
+            this.numTagCount.ValueChanged += new System.EventHandler(this.numTagCount_ValueChanged);
             // 
             // chkAutoTagCount
             // 

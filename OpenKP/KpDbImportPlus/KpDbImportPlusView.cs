@@ -39,7 +39,7 @@ namespace Scada.Comm.Devices
         /// <summary>
         /// The driver version.
         /// </summary>
-        internal const string KpVersion = "5.1.1.0";
+        internal const string KpVersion = "5.1.1.1";
 
 
         /// <summary>
@@ -71,7 +71,7 @@ namespace Scada.Comm.Devices
                     "Автор:  Михаил Ширяев\n" +
                     "Доработка: Юрий Прадиус\n" +
                     "Импорт из сторонней базы данных.\n\n" +
-                    "Версия 5.1.1.0 (14.08.2022)\n" +
+                    "Версия 5.1.1.1 (05.09.2022)\n" +
                     "Добавлено:\n" +
                     "[+] Подключение через ODBC.\n" +
                     "[+] Подключение к базе данных Firebird.\n" +
@@ -84,7 +84,7 @@ namespace Scada.Comm.Devices
                     "The author: Mikhail Shiryaev\n" +
                     "Revision: Yuri Pradius\n" +
                     "Import from a third-party database.\n\n" +
-                    "Version 5.1.0.0 (11.08.2022)\n" +
+                    "Version 5.1.1.1 (11.08.2022)\n" +
                     "Added:\n" +
                     "[+] Connection via ODBC.\n" +
                     "[+] Connecting to the Firebird database.\n" +
