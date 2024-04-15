@@ -17,3 +17,8 @@ The KpDbImportPlus library has been improved and new functionality has been adde
 - Checking the SQL query from the driver form.
 - SQL syntax highlighting.
 - A new data collection mode has been implemented, when the first column contains the tag name, the second column contains the tag value, and the third column contains the time of the value. (Historical data recording via slice works.)
+
+
+## SAST Tools
+
+[PVS-Studio](https://pvs-studio.ru/ru/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static analyzer for C, C++, C#, and Java code.
