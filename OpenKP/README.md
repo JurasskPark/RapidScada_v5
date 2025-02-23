@@ -2,7 +2,7 @@
 	Drivers  for Rapid SCADA.
 
 ![KpDbImportPlus](https://img.shields.io/github/downloads/JurasskPark/RapidScada_v5/v5.1.1.1/total)
-![KpDbImportPlus](https://img.shields.io/github/downloads/JurasskPark/RapidScada_v5/v5.1.1.1/total)
+![KpDbImportPlus](https://img.shields.io/github/downloads/JurasskPark/RapidScada_v5/v5.1.1.0/total)
 
  
 Библиотека KpDbImportPlus была доработана и добавлен новый функционал:
