@@ -1,5 +1,10 @@
 	Драйвера для Rapid SCADA.
 	Drivers  for Rapid SCADA.
+
+![KpDbImportPlus](https://img.shields.io/github/downloads/JurasskPark/RapidScada_v5/KpDbImportPlus_v5.1.1.1/total)
+![KpDbImportPlus](https://img.shields.io/github/downloads/JurasskPark/RapidScada_v5/KpDbImportPlus_v5.1.1.1/total)
+
+ 
 Библиотека KpDbImportPlus была доработана и добавлен новый функционал:
 - В конфигурационном файле теперь шифриуется не только пароль, но и строка подключения.
 - Добавлен сбор данных через драйвера ODBC.
